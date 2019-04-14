@@ -1,3 +1,3 @@
-# Snips-MagicMirror2
+# snips-kompliment
 
-Skill to Show, Hide and Move Modules on the MagicMirror2.
+Bei snips bedanken. Und das Beste: Man muss nichts mehr programmieren! Einfach mit Sam folgendes ausführen: sam install skills
